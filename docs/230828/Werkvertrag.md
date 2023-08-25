@@ -22,4 +22,8 @@ Software Projekt die Erfolgskriterien (noch) nicht festgelegt sind.
 Daher sind entsprechende Verträge streng genommen keine Werkverträge
 sondern werksvertragsähnliche Innominatkontrakte.
 
-[^1]: Zusammenfassung basierend auf Gaudenz G. Zindel, Urs Pulver, und Bertrand G. Schott, «Elfter Titel: Der Werkvertrag», in Obligationenrecht, hg. von Heinrich Honsell, Nedim Peter Vogt, und Wolfgang Wiegand, 5. Aufl, Basler Kommentar (Basel: Helbing Lichtenhahn Verlag, 2011).
+[^1]: Zusammenfassung basierend auf Gaudenz G. Zindel, Urs Pulver, und
+    Bertrand G. Schott, «Elfter Titel: Der Werkvertrag», in
+    Obligationenrecht, hg. von Heinrich Honsell, Nedim Peter Vogt, und
+    Wolfgang Wiegand, 5. Aufl, Basler Kommentar (Basel: Helbing
+    Lichtenhahn Verlag, 2011). 
