@@ -1,4 +1,4 @@
-# Der Werkvertrag
+# Der Werkvertrag[^1]
 
 Der Werkvertrag ist in den Art. 363 ff. OR geregelt. Ein Werk  im Sinne
 dieses Titels des OR ist ein körperliches oder unkörperliches
@@ -19,3 +19,5 @@ Entwicklung führt dazu, dass beim Abschluss eines Vertrages über ein
 Software Projekt die Erfolgskriterien (noch) nicht festgelegt sind.
 Daher sind entsprechende Verträge streng genommen keine Werkverträge
 sondern werksvertragsähnliche Innominatkontrakte.
+
+[^1]: Zusammenfassung basierend auf Gaudenz G. Zindel, Urs Pulver, und Bertrand G. Schott, «Elfter Titel: Der Werkvertrag», in Obligationenrecht, hg. von Heinrich Honsell, Nedim Peter Vogt, und Wolfgang Wiegand, 5. Aufl, Basler Kommentar (Basel: Helbing Lichtenhahn Verlag, 2011).
