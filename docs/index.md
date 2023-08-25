@@ -14,7 +14,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-| 28/08/2023 | [Werkvertrag](230828/Werkvertrag.md)	                 |
+| 28/08/2023 | [Werkvertrag](230828/Werkvertrag.md) |
 | 29/08/2023 | Banken - Bilanzgeschäfte	     |
 | 04/09/2023 | Banken - Kreditarten	         |
 | 05/09/2023 | Banken - Tragbarkeitsrechnung |
