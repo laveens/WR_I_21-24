@@ -1,1 +1,9 @@
 theme: jekyll-theme-slate
+
+title: WR Klasse 3I
+description: ' ' 
+
+includes_dir     : ./_includes
+layouts_dir:  ./_layouts
+plugins:
+  - jemoji
