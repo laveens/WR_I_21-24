@@ -1,11 +1,11 @@
 # Der Werkvertrag[^1]
 
-Der Werkvertrag ist in den Art. 363 ff. OR geregelt. Ein Werk im Sinne
-dieses Titels des OR ist ein körperliches oder unkörperliches
+Mit einem Werkvertrag verpflichtet sich der (Werk-)Unternehmer für den
+Besteller ein Werk zu erstellen. Ein Werk im Sinne von Art. 363 ff. OR 
+ist ein körperliches oder unkörperliches
 Arbeitsergebnis. Heute ist unbestritten, dass auch unkörperliche Werke -
 und damit insbesondere auch Software - Gegenstand von Werkverträgen sein
-können. Dies deckt sich mit dem Versprechen des Unternehmers, einen
-bestimmten Arbeitserfolg zu erbringen.
+können.
 
 Der Werkvertrag muss gegen den Auftrag, den Kaufvertrag und den
 Arbeitsvertrag abgegrenzt werden.
