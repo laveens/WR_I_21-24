@@ -19,7 +19,7 @@ Subordinationsverhältnisses.
 Die zunehmende Verbreitung von agilen Methoden in der Software
 Entwicklung führt dazu, dass beim Abschluss eines Vertrages über ein
 Software Projekt die Erfolgskriterien (noch) nicht festgelegt sind.
-Daher sind entsprechende Verträge streng genommen keine Werkverträge
+Daher sind entsprechende Verträge streng genommen keine Werkverträge,
 sondern werksvertragsähnliche Innominatkontrakte.
 
 [^1]: Zusammenfassung basierend auf Gaudenz G. Zindel, Urs Pulver, und
