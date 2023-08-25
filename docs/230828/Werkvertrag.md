@@ -9,4 +9,13 @@ bestimmten Arbeitserfolg zu erbringen. Wichtig ist die Abgrenzung des
 Werkvertrages vom Auftrag, vom Kaufvertrag und vom Arbeitsvertrag.
 
 Im Gegensatz zum (Werk-)Unternehmer schuldet der Beauftragte lediglich
-ein Tätigwerden.
+ein Tätigwerden. Der Verkäufer schuldet die Eigentumsübertragung am Kaufgegenstand aber
+nicht das Herstellen desselben. Gegenüber dem Arbeitsvertrag
+unterscheidet sich der Werkvertrag bezüglich des fehlenden
+Subordinationsverhältnisses.
+
+Die zunehmende Verbreitung von agilen Methoden in der Software
+Entwicklung führt dazu, dass beim Abschluss eines Vertrages über ein
+Software Projekt die Erfolgskriterien (noch) nicht festgelegt sind.
+Daher sind entsprechende Verträge streng genommen keine Werkverträge
+sondern werksvertragsähnliche Innominatkontrakte.
