@@ -10,6 +10,9 @@ können.
 Der Werkvertrag muss gegen den Auftrag, den Kaufvertrag und den
 Arbeitsvertrag abgegrenzt werden.
 
+Dies ist wichtig, weil die Qualifikation eines Vertrages die
+Rechtsfolgen, welche dieser nach sich zieht, bestimmt.
+
 Im Gegensatz zum (Werk-)Unternehmer schuldet der Beauftragte lediglich
 ein Tätigwerden. Der Verkäufer schuldet die Eigentumsübertragung am Kaufgegenstand aber
 nicht das Herstellen desselben. Gegenüber dem Arbeitsvertrag
@@ -21,6 +24,8 @@ Entwicklung führt dazu, dass beim Abschluss eines Vertrages über ein
 Software Projekt die Erfolgskriterien (noch) nicht festgelegt sind.
 Daher sind entsprechende Verträge streng genommen keine Werkverträge,
 sondern werksvertragsähnliche Innominatkontrakte.
+
+
 
 [^1]: Zusammenfassung basierend auf Gaudenz G. Zindel, Urs Pulver, und
     Bertrand G. Schott, «Elfter Titel: Der Werkvertrag», in
