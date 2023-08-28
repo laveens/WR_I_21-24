@@ -14,7 +14,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-| 28/08/2023 | Werkvertrag	                 |
+| 28/08/2023 | [Werkvertrag](230828/Werkvertrag.md) |
 | 29/08/2023 | Banken - Bilanzgeschäfte |
 | 04/09/2023 | Banken - Kreditarten	         |
 | 05/09/2023 | Banken - Tragbarkeitsrechnung |
@@ -44,4 +44,10 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 Die Note wird aus dem Durchschnitt der beiden schriftlichen Prüfungen
 sowie der Benotung der mündlichen Beteiligung berechnet. Der
-Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu 10%.
+Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
+10%.
+
+Unter den Programmstichworten werden die Notizen aus dem Unterricht
+verlinkt. Wer via Pull Request substanzielle Beiträge zur Ergänzung
+dieser Notizen liefert kann sich so Zusatzpunkte für die entsprechende
+Prüfung verdienen.
