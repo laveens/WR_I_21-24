@@ -49,5 +49,5 @@ Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
 
 Unter den Programmstichworten werden die Notizen aus dem Unterricht
 verlinkt. Wer via Pull Request substanzielle Beiträge zur Ergänzung
-dieser Notizen liefert kann sich so Zusatzpunkte für die entsprechende
+dieser Notizen liefert, kann sich so Zusatzpunkte für die entsprechende
 Prüfung verdienen.
