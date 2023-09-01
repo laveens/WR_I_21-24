@@ -50,4 +50,6 @@ Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
 Unter den Programmstichworten werden die Notizen aus dem Unterricht
 verlinkt. Wer via Pull Request substanzielle Beiträge zur Ergänzung
 dieser Notizen liefert, kann sich so Zusatzpunkte für die entsprechende
-Prüfung verdienen.
+Prüfung verdienen. Der Pull Request muss bis spätestens eine Woche nach
+der jeweiligen Lektion erfolgen (gilt für die Lektionen ab dem 4.
+September 23).
