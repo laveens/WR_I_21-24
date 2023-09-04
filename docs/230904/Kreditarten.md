@@ -7,6 +7,10 @@
 | Kriterium | Ausprägung | Ausprägung |
 | :-------- | :--------- | :--------- |
 | Frist     | kurzfristig | langfristig |
+| Sicherheit | gesichert | ungesichert |
+| Zweck | Investitionskredite | Konsumkredite |
+| Gläubiger | institutionell | privat | 
+| Laufzeit | fest | kündbar |
 
 ### Einzelne Kreditarten im Besonderen
 
